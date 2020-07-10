@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Anything. We can learn and grow that way!
 - 📫 How to reach me: @chetan_chawla_ on twitter
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I like stars more than music
+- ⚡ Fun fact: I can code without coffee :p
