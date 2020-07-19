@@ -1,20 +1,18 @@
 # Welcome aboard my code station <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" height="50" />🚀
 
-I am the captain of this ship. This ship 🛰️ sails at __27,580 km/h__ (or 17,130 mph). Crazy, ain't it? Well grab the firm handle close to you because we are gonna go warp speed to know my universe.
-
-
-
-<details>
-<p align="center">
-  <summary> <img align="middle" src="https://media.giphy.com/media/USt6UttIL6e8hsK5Q7/giphy.gif" width="150" height="120" /> <i>(click to expand!)</i> </summary>
-  <img align="middle" src="https://media.giphy.com/media/26uf9QPzzlKPvQG5O/giphy.gif" width="120" height="120" />
-</p>
-
-
-  
-
-
 I am a 22 year old Engineer from India who loves space and exoplanets. I am currently working at ZS Associates as a Business Technology Analyst, working on client centered data solutions. I am passionate about doing research in Computational Astrophysics.
+
+I am the captain of this ship. This ship 🛰️ sails at __27,580 km/h__ (or 17,130 mph). Crazy, ain't it? Well grab the firm handle close to you because we are gonna go warp speed to know my universe.
+  
+<details>
+  <summary><i> (Click <b> Here </b> to enter the Warp Speed!)</i>
+<p align="center">  
+  <img align="middle" src="https://media.giphy.com/media/26uf9QPzzlKPvQG5O/giphy.gif" width="120" height="120" />
+  <img align="middle" src="Zooom.gif" width="150" height="120" /> 
+</p> </summary>  
+
+
+
 
 <p align="center">
   <img align="right" src="https://media.giphy.com/media/j2NDJZct5aXPzQItQ9/giphy.gif" width="300" height="300" />
