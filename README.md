@@ -2,7 +2,10 @@
 
 I am the captain of this ship. This ship sails at __27,580 km/h__ (or 17,130 mph). Crazy, ain't it? Well grab the firm handle close to you because we are gonna go warp speed to know my universe.
 
-<img src="https://media.giphy.com/media/26uf9QPzzlKPvQG5O/giphy.gif" width="120" height="120" />
+<p align="center">
+  <img align="middle" src="https://media.giphy.com/media/26uf9QPzzlKPvQG5O/giphy.gif" width="120" height="120" />
+</p>
+
 
 
 
