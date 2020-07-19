@@ -2,13 +2,13 @@
 
 I am a 22 year old Engineer from India who loves space and exoplanets. I am currently working at ZS Associates as a Business Technology Analyst, working on client centered data solutions. I am passionate about doing research in Computational Astrophysics.
 
-I am the captain of this ship. This ship 🛰️ sails at __27,580 km/h__ (or 17,130 mph). Crazy, ain't it? Well grab the firm handle close to you because we are gonna go warp speed to know my universe.
+I am the captain of this ship. This ship 🛰️ sails at __27,580 km/h__ (or 17,130 mph). Crazy, isn't it? Well grab the firm handle closest to you because we are gonna go warp speed to know my universe.
   
 <details>
-  <summary><i> (Click <b> Here </b> to enter the Warp Speed!)</i>
+  <summary><i> (Click <b> Here </b> to enter the Warp Speed and know more about my universe!)</i>
 <p align="center">  
   <img align="middle" src="https://media.giphy.com/media/26uf9QPzzlKPvQG5O/giphy.gif" width="120" height="120" />
-  <img align="middle" src="Zooom.gif" width="150" height="120" /> 
+  <img align="middle" src="https://media.giphy.com/media/USt6UttIL6e8hsK5Q7/giphy.gif" width="150" height="120" /> 
 </p> </summary>  
 
 
@@ -36,4 +36,7 @@ Well we have sped and warped through my universe. Time to unveil your own univer
 <a href="mailto:chetanchawlacc4@gmail.com">
   <img align="right" alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
+
+<img align="middle" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="400" height="400" />
 </details>
+### `We're made of star stuff. We are a way for the cosmos to know itself`- _Carl Sagan_
