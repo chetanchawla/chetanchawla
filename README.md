@@ -2,7 +2,9 @@
 
 I am the captain of this ship. This ship sails at __27,580 km/h__ (or 17,130 mph). Crazy, ain't it? Well grab the firm handle close to you because we are gonna go warp speed to know my universe.
 
-<img align="right" alt="GIF" src="https://giphy.com/embed/26uf9QPzzlKPvQG5O" width="480" height="480" />
+<img src="https://media.giphy.com/media/26uf9QPzzlKPvQG5O/giphy.gif" width="120" height="120" />
+
+
 
 - 🔭 I’m currently working at ZS Associates as a Business Technology Analyst
 - 🌱 I’m currently learning __Astrophysics__
