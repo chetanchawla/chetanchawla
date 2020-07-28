@@ -36,10 +36,12 @@ We have sped and warped through my universe. Want to unveil your own universe? C
 <a href="mailto:chetanchawlacc4@gmail.com">
   <img align="right" alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
-</details>
-
 <p align="center">
 <img align="middle" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="250" height="250" />
 </p>
 
 ### `We're made of star stuff. We are a way for the cosmos to know itself`- _Carl Sagan_
+
+</details>
+
+
