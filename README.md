@@ -28,13 +28,13 @@ I am the captain of this ship. This ship 🛰️ sails at __27,580 km/h__ (or 17
 ![Chetan's github stats](https://github-readme-stats.vercel.app/api?username=chetanchawla&show_icons=true&hide_border=true)
 
 We have sped and warped through my universe. Want to unveil your own universe? Contact me at: <a href="https://www.linkedin.com/in/chetan-chawla">
-  <img align="right" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
+  <img align="right" alt="LinkedIn" width="60px" src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Symbol-700x394.png" />
 </a>
 <a href="https://www.twitter.com/chetan_chawla_">
-  <img align="right" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" />
+  <img align="right" alt="Twitter" width="60px" src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo-700x394.png" />
 </a>
 <a href="mailto:chetanchawlacc4@gmail.com">
-  <img align="right" alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
+  <img align="right" alt="Gmail" width="50px" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo-700x394.png" />
 </a>
 <p align="center">
 <img align="middle" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="250" height="250" />
