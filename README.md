@@ -1,6 +1,6 @@
 # Welcome aboard my code station <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" height="50" />🚀
 
-I am a 23 year old Engineer from India who loves space and exoplanets. I am currently studying and researching astrophysics (mainly focussingon exoplanet detection and characterization) and am looking for research opportunities in the same. Previously, I worked as a Data Analyst at ZS Associates.
+I am a 23 year old Engineer from India who loves space and exoplanets. I am currently studying and researching astrophysics (mainly focussing on exoplanet detection and characterization) and am looking for research opportunities in the same. Previously, I worked as a Data Analyst at ZS Associates.
 
 <details>
   <summary><i> If you want to know more about me, go warp speed through my ship 🛰️ sailing at __27,580 km/h__ (or 17,130 mph). Click <b> Here </b></i>
