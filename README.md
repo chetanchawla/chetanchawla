@@ -26,15 +26,15 @@ I am a 23 year old Engineer from India who loves space and exoplanets. I am curr
 
 ![Chetan's github stats](https://github-readme-stats.vercel.app/api?username=chetanchawla&show_icons=true&hide_border=true)
 
-If you want to talk about your universe or want to contact me for more details/any opportunities, drop a message on : <a href="https://www.linkedin.com/in/chetan-chawla">
-  <img align="right" alt="LinkedIn" width="50px" src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Symbol-700x394.png" />
-</a>
-<a href="https://www.twitter.com/chetan_chawla_">
-  <img align="right" alt="Twitter" width="50px" src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo-700x394.png" />
-</a>
-<a href="mailto:chetanchawlacc4@gmail.com">
-  <img align="right" alt="Gmail" width="50px" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo-700x394.png" />
-</a>
+If you want to talk about your universe or want to contact me for more details/any opportunities, drop a message on : 
+
+
+<p align="center">
+<a href="https://www.linkedin.com/in/chetan-chawla"> <img align="right" alt="LinkedIn" width="40px" src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Symbol-700x394.png" />
+</a> <a href="https://www.twitter.com/chetan_chawla_"> <img align="right" alt="Twitter" width="40px" src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo-700x394.png" /> </a> <a href="mailto:chetanchawlacc4@gmail.com"> <img align="right" alt="Gmail" width="30px" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo-700x394.png" /> </a>
+</p>
+
+
 <p align="center">
 <img align="middle" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="250" height="250" />
 </p>
