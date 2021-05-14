@@ -1,9 +1,9 @@
 # Welcome aboard my code station <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" height="50" />🚀
 
-I am a 23 year old Engineer from India who loves space and exoplanets. I am currently studying and researching astrophysics (mainly focussing on exoplanet detection and characterization) and am looking for research opportunities in the same. Previously, I worked as a Data Analyst at ZS Associates.
+I am a 23 year old Engineer from India who loves space and exoplanets. I am an incoming research intern at ASIAA, Taiwan over the summer to work on Temperate Exoplanet Detection using TESS Continuous Viewing Zones, under the supervision of Dr. Alex Teachey. Previously, I worked as a Data Analyst at ZS Associates.
 
 <details>
-  <summary><i> If you want to know more about me, go warp speed through my ship 🛰️ sailing at __27,580 km/h__ (or 17,130 mph). Click <b> Here </b></i>
+  <summary><i> If you want to know more about me, go warp speed through my ship 🛰️ sailing at 27,580 km/h (or 17,130 mph). Click <b> Here </b></i>
 <p align="center">  
   <img align="middle" src="https://media.giphy.com/media/26uf9QPzzlKPvQG5O/giphy.gif" width="120" height="120" />
   <img align="middle" src="https://media.giphy.com/media/USt6UttIL6e8hsK5Q7/giphy.gif" width="150" height="120" /> 
@@ -17,16 +17,16 @@ I am a 23 year old Engineer from India who loves space and exoplanets. I am curr
 </p>
 
 
-- 🔭 I’m currently learning and researching __Astrophysics__ (focussing on Exoplanets)
-- 👯 I’m looking for research programs in astrophysics
-- 🌌 I previously worked at [ZS Associates](https://www.zs.com) as a Business Technology Analyst, developing and deploying data systems for pharmaceutical sales alignments
+- 🔭 I’m currently finding ways to better detect Exoplanets during their transits
+- 👯 I’m looking forward to applying to Graduate Schools this Fall
+- 🌌 I previously worked at [ZS Associates](https://www.zs.com) as a Business Technology Analyst, developing and deploying automated data systems for pharmaceutical sales alignments
 - ✨ Pronouns: He/him
 - 🛸 Fun fact: I can code without coffee
-- 🎼 Hobbies: [Music](https://www.youtube.com/playlist?list=PLwX1goq_zNSv1TEPV8gUh9gHFdG316yJc) (Piano, Guitar and Singing), watching Anime, connecting with people, cooking and doodling
+- 🎼 Hobbies: [Music](https://www.youtube.com/playlist?list=PLwX1goq_zNSv1TEPV8gUh9gHFdG316yJc) (Piano, Guitar and Singing), meeting people's pets, watching Anime, connecting with people, cooking and doodling
 
 ![Chetan's github stats](https://github-readme-stats.vercel.app/api?username=chetanchawla&show_icons=true&hide_border=true)
 
-If you want to talk about your universe or want to contact me for more details/any opportunities, drop a message on : 
+If you want to talk about your universe or want to contact me for more details, any opportunity or for a potential collaboration, drop an email/message on:
 
 
 <p align="center">
