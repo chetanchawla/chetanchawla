@@ -1,6 +1,6 @@
 # Welcome aboard my code station <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" height="50" />🚀
 
-I am a 23 year old Engineer from India who loves space and exoplanets. I am an incoming research intern at ASIAA, Taiwan over the summer to work on Temperate Exoplanet Detection using TESS Continuous Viewing Zones, under the supervision of Dr. Alex Teachey. Previously, I worked as a Data Analyst at ZS Associates.
+I am a 23 year old Engineer from India who loves space and exoplanets. I am currently a research intern at Academia Sinica Institute of Astronomy and Astrophysics, Taiwan, over the summer to work on Temperate Exoplanet Candidates' Detection using TESS, under the supervision of Dr. Alex Teachey. Previously, I worked as a Data Analyst at ZS Associates.
 
 <details>
   <summary><i> If you want to know more about me, go warp speed through my ship 🛰️ sailing at 27,580 km/h (or 17,130 mph). Click <b> Here </b></i>
